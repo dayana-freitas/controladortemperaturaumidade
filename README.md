@@ -26,3 +26,15 @@ O projeto foi desenvolvido com base no controlador de temperatura e umidade N323
 - 2 Protoboards
 - Resistores
 - Jumpers
+
+<h3>Instruções:</h3>
+
+No arquivo <b>projeto.c</b> está a versão final apresentada do projeto, dentro dele o código está comentado afim de facilitar o entendimento da conexão de portas.
+
+Na pasta imagens, é possível encontrar imagens da montagem do projeto.
+
+Perceba que o arquivo <b>simulacao_tinkercad.c</b> é um pouco diferente do projeto final pois não possui a função demultiplexador.
+
+A simulação pode ser encontrada em: <a href="https://www.tinkercad.com/things/lmZnEpiFMLK-controlador-de-temperatura-e-umidade?sharecode=qH96mGcl8HffHrVjqjyqkoQV5-Z8oD8nZZ1EQgmY5Hc">Simulação no Tinkercad</a>
+
+<img width="100%" src="https://github.com/dayana-freitas/controladortemperaturaumidade/blob/main/imagens/capa.jpg" alt="Especificações do projeto">
