@@ -1,6 +1,6 @@
 # Controlador de Temperatura e Umidade
 
-<h3><a href="https://youtu.be/TjvKqfbe9nc">Apresentação do projeto no YouTube</a></h3>
+<a href="https://youtu.be/TjvKqfbe9nc">Apresentação do projeto no YouTube</a>
 
 Projeto final desenvolvido para a disciplina de Sistemas Digitais, ministrada pelo professor Delvanei Gomes, no ano de 2024, na UTFPR.
 
