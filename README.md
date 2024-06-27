@@ -1,17 +1,18 @@
 # Controlador de Temperatura e Umidade
 
-<a href="https://youtu.be/TjvKqfbe9nc">Vídeo no YouTube</a>
+<h3><a href="https://youtu.be/TjvKqfbe9nc">Apresentação do projeto no YouTube</a></h3>
 
 Projeto final desenvolvido para a disciplina de Sistemas Digitais, ministrada pelo professor Delvanei Gomes, no ano de 2024, na UTFPR.
 
-Equipe:
-Cauã Felipe Gomes de Azevedo
-Dayana Resende de Freitas
-Elyas Emanuel Potulski Soboleski
+<h3>Equipe:</h3>
+
+- Cauã Felipe Gomes de Azevedo
+- Dayana Resende de Freitas
+- Elyas Emanuel Potulski Soboleski
 
 O projeto foi desenvolvido com base no controlador de temperatura e umidade N323-RHT, da marca Novus, que possui três saídas de controle e pode ser configurado manualmente. Utilizando esse controlador como referência, criamos o protótipo que será apresentado, o qual possui funções para definir a temperatura e umidade mínima e máxima de acordo com as necessidades do usuário. As saídas do sistema serão utilizadas para ativar a irrigação, o aquecimento e a refrigeração da estufa conforme os parâmetros cadastrados.
 
-Materiais utilizados:
+<h3>Materiais utilizados:</h3>
 
 - 1 Arduino UNO
 - 3 Displays de 7 segmentos cátodo comum
