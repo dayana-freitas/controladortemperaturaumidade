@@ -1,4 +1,4 @@
-# Controlador de Temperatura e Umidade
+# Controlador de Temperatura e Umidade com Arduino UNO
 
 <a href="https://youtu.be/TjvKqfbe9nc">Apresentação do projeto no YouTube</a>
 
