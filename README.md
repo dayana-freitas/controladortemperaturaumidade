@@ -1,8 +1,8 @@
 # Controlador de Temperatura e Umidade com Arduino UNO
 
-<a href="https://youtu.be/TjvKqfbe9nc">Apresentação do projeto no YouTube</a>
+<a href="https://youtu.be/th4r7HzCY8c?si=rj2zx7XCSq8fFcCA">Apresentação do projeto no YouTube</a>
 
-Projeto final desenvolvido para a disciplina de Sistemas Digitais, ministrada pelo professor Delvanei Gomes, no ano de 2024, na UTFPR.
+Projeto final desenvolvido para a disciplina de Sistemas Microcontrolados, ministrada pelo professor Delvanei Gomes Bandeira Jr, no ano de 2024/2025, na UTFPR.
 
 <h3>Equipe:</h3>
 
